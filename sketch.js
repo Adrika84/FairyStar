@@ -7,8 +7,8 @@ var backgroundImg, fairyImage;
 var fairy;
 
 function preload(){
-    backgroundImg = loadImage("images/starnight.png");
-    fairyImage = loadImage("images/fairy1.png");
+    backgroundImg = loadImage("starnight.png");
+    fairyImage = loadImage("fairy1.png");
 }
 
 function setup(){

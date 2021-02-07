@@ -12,7 +12,7 @@ class Star {
       this.width = width;
       this.height = height;
       World.add(world, this.body);
-      this.image = loadImage("images/star.png");
+      this.image = loadImage("star.png");
     }
 
     display() {
